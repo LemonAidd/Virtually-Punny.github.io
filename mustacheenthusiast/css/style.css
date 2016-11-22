@@ -259,6 +259,8 @@ p a:hover {
 	margin: 0 0 18px;
 	padding: 23px 27px 20px;
 	text-transform: uppercase;
+	margin left: 200px;
+
 }
 #body #featured div span {
 	background: #252525;
@@ -267,6 +269,7 @@ p a:hover {
 	font-size: 20px;
 	margin: 7px 0;
 	padding: 12px 27px;
+	margin left: 200px;
 }
 #body #featured div a {
 	background: #0ba39c;
