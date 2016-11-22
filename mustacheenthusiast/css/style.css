@@ -235,7 +235,7 @@ p a:hover {
 	padding: 0;
 	width: 500px;
 	height: 400px;
-	margin-left: 300px;
+	margin-left: 200px;
 }
 #body #featured div {
 	left: 50%;
@@ -246,6 +246,8 @@ p a:hover {
 	top: 50%;
 	text-align: left;
 	width: 490px;
+	margin left: 50px;
+
 }
 #body #featured div h2 {
 	background: #fff;
