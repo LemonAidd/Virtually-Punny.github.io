@@ -57,7 +57,8 @@ p a:hover {
 	margin: 0;
 	padding: 0;
 	width: 500px;
-	height: 250px;
+	height: 150px;
+	position: absolute;
 }
 #header img.resize { 
 	width: 540px;
