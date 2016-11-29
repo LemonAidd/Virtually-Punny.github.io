@@ -103,6 +103,9 @@ p a:hover {
 	text-transform: uppercase;
 	text-align: center;
 }
+.container {
+	column-count: 3
+}
 #body h1 span {
 	background: #252525;
 	display: inline-block;
