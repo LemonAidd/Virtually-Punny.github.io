@@ -52,13 +52,13 @@ p a:hover {
 	width: 150px;
 }
 #header a.logo img {
-	border: 0;
+	border: 20px 20px 20px 20px;
 	display: block;
 	margin: 0;
 	padding: 0;
 	width: 550px;
 	height: 150px;
-	text-align: center;
+	
 	
 }
 #header img.resize { 
