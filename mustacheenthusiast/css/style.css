@@ -58,6 +58,7 @@ p a:hover {
 	padding: 0;
 	width: 550px;
 	height: 150px;
+	text-align: center;
 	
 }
 #header img.resize { 
