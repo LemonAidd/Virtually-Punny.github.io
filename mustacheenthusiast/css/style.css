@@ -85,7 +85,7 @@ p a:hover {
 	text-transform: uppercase;
 }
 #header ul li a:hover, #header ul li.selected a {
-	color: #0ba39c;
+	color: #252525;
 }
 #body {
 	margin: 0;
@@ -282,6 +282,7 @@ p a:hover {
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
+	border-radius: 10px;
 }
 #body #featured div a:hover {
 	background: #1fc3bc;
