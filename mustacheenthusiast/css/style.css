@@ -229,12 +229,12 @@ p a:hover {
 	width: 100%;
 }
 #body #featured img {
-	border: 0;
+	border: 10px;
 	display: block;
 	margin: 0;
 	padding: 0;
-	width: 380px;
-	height: 250px;
+	width: 70%;
+	height: 70%;
 	margin-left: 100px;
 }
 #body #featured div {
@@ -297,6 +297,7 @@ p a:hover {
 	margin: 0 10px 20px;
 	padding: 0;
 	width: 300px;
+	text-align: center;
 }
 #body > ul li a {
 	color: #000;
